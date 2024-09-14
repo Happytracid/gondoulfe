@@ -1,0 +1,33 @@
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #0055A4, #FFFFFF, #EF4135);
+            margin: 0;
+            padding: 20px;
+            color: white;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+
+        .weather {
+            margin-top: 20px;
+            font-size: 18px;
+            color: white; /* Changer la couleur du texte */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+        }
+
+        .ephemeris {
+            margin-top: 20px;
+            font-size: 18px;
+            color: white; /* Changer la couleur du texte */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+        }
